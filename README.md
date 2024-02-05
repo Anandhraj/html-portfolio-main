@@ -1,2 +1,2 @@
-# html-portfolio-main
-My simple portfolio
+# html-portfolio
+My Personal Dummy Portfolio
